@@ -1,8 +1,3 @@
-# Examen AC - 2 de Diciembre de 2016
-# 
-# Login lab: rodribs
-# Gecos: Rodrigo Bermejo Sanchez
-#
 # RECUERDA __NO__ APAGAR EL EQUIPO CUANDO ACABES. PUEDES LEVANTARTE E IRTE SIN MAS.
 # NO MODIFIQUES ESTAS LINEAS. REALIZA EL EJERCICIO A PARTIR DE ESTA CABECERA.
 #####
