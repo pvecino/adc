@@ -1,2 +1,1 @@
-# adc
-code of adc
+# machine language
